@@ -14,7 +14,7 @@ A collection of Python models for derivative pricing, stochastic stock forecasti
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/miyuru81/finance_python.git
    cd finance_python
 2. Install required libraries:
    ```bash
